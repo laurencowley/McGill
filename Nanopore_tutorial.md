@@ -27,7 +27,7 @@ First we need to retrieve Ebola data from NCBI.
 * Select ```gzip compressed fastq``` for the output format
 * Click ```Execute```
 
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 9.52.33 AM.png)
+![Alt text](screenshots/Screen%20Shot%202018-06-07%20at%209.52.33%20AM.png)
 
 * The job will then appear in the ```History``` panel on the right hand side of the screen
 
