@@ -31,7 +31,7 @@ First we need to retrieve Ebola data from NCBI.
 
 * The job will then appear in the ```History``` panel on the right hand side of the screen
 
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 10.07.13 AM.png)
+![Alt text](https://github.com/laurencowley/McGill/tree/master/screenshots/Screen Shot 2018-06-07 at 10.07.13 AM.png)
 
 * The job will turn green when it has finished
 
@@ -50,7 +50,7 @@ Next we will map our nanopore Ebola reads to a reference.
 * Select ```3. Nanopore 2D-reads mode (-x ont2d)``` for analysis mode  
 * Click ```Execute```
 
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 10.17.22 AM.png)
+![Screenshot](screenshots/Screen%20Shot%202018-06-07%20at%2010.07.13%20AM.png)
 
 ### When it has finished running, we will download the mapped reads.
 
