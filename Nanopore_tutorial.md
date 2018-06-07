@@ -12,7 +12,7 @@ We will be using the Galaxy server that you have been using this week so far so 
 ## Programs we will use off galaxy:
 
 * [Tablet](https://ics.hutton.ac.uk/tablet/) 
-* [Bandage] (http://rrwick.github.io/Bandage/)
+* [Bandage](http://rrwick.github.io/Bandage/)
 
 #### First off, we are going to start by using some Ebola data to look at mapping nanopore reads to a reference. We are going to use BWA mem that has long read capability.
 
