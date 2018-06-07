@@ -31,7 +31,7 @@ First we need to retrieve Ebola data from NCBI.
 
 * The job will then appear in the ```History``` panel on the right hand side of the screen
 
-![Alt text](https://github.com/laurencowley/McGill/tree/master/screenshots/Screen Shot 2018-06-07 at 10.07.13 AM.png)
+![Alt text](screenshots/Screen%20Shot%202018-06-07%20at%2010.07.13%20AM.png)
 
 * The job will turn green when it has finished
 
@@ -59,7 +59,7 @@ Next we will map our nanopore Ebola reads to a reference.
 * Click on it and the ```Download dataset``` and ```Download bam_index``` options will appear
 * We need both so click on one after the other 
 
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 10.32.52 AM.png)
+![Alt text](screenshots/Screen%20Shot%202018-06-07%20at%2010.32.52%20AM.png)
 
 # Step 3: Viewing the mapping in Tablet
 
@@ -67,12 +67,12 @@ Next we will map our nanopore Ebola reads to a reference.
 * For ```Primary assembly file or URL:``` click on ```Browse...``` and find the downloaded Bam file (you need the file with the extension ```.bam``` not ```.bai```)
 * For ```Reference/consensus file or URL:``` click on ```Browse...``` and find the downloaded (from dropbox) reference genome ```EM_079517.fasta```
 
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 10.42.02 AM.png)
+![Alt text](screenshots/Screen%20Shot%202018-06-07%20at%2010.42.02%20AM.png)
 
 * Click ```Open``` and then click on the Contig ```EM_079517``` on the left hand panel of the screen and you will see your mapping results ready to browse
 * Take a few minutes to explore the program and the results
 
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 10.44.03 AM.png)
+![Alt text](screenshots/Screen%20Shot%202018-06-07%20at%2010.44.03%20AM.png)
 
 #### What can you tell from the alignment about the method of sequencing?
 
@@ -104,18 +104,18 @@ Next we will map our nanopore Ebola reads to a reference.
 * Click on ```File``` then ```Load graph```
 * Find the ```illumina_assembly_graph.fastg``` location on your computer and click ```Open```
 
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 11.20.11 AM.png)
+![Alt text](screenshots/Screen%20Shot%202018-06-07%20at%2011.20.11%20AM.png)
  
  * Click ```Draw graph``` on the left hand panel of the screen
  * You will see that the Illumina assembly produces a whole mess of 649 contigs with a lot of short contigs connecting everything together
  * You can zoom in on the graph to look at it in more detail
  
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 12.40.28 PM.png)
+![Alt text](screenshots/Screen%20Shot%202018-06-07%20at%2012.40.28%20PM.png)
 
  * We can colour the graph by depth by changing ```Graph display``` from ```Random colours``` to ```Colour by depth```
  * You'll see that the short contigs all have much higher coverage than the other contigs. *What do you think that means?*
 
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 12.47.48 PM.png)
+![Alt text](screenshots/Screen%20Shot%202018-06-07%20at%2012.47.48%20PM.png)
 
 #### Now we are going to use [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) to look for the prophage regions in the assembly
 
@@ -125,13 +125,13 @@ Next we will map our nanopore Ebola reads to a reference.
 * ```Step 3``` click on ```Run BLAST search```
 * click on ```Close```
 
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 12.52.56 PM.png)
+![Alt text](screenshots/Screen%20Shot%202018-06-07%20at%2012.52.56%20PM.png)
 
 #### You will see the prophage regions highlighted in colour on the assembly graph now.
 
 #### What affect are the prophage regions having on the assembly?
 
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 12.54.03 PM.png)
+![Alt text](screenshots/Screen%20Shot%202018-06-07%20at%2012.54.03%20PM.png)
 
 #### Now, we will load the nanopore assembly into Bandage to see how long reads affect this
 
@@ -140,7 +140,7 @@ Next we will map our nanopore Ebola reads to a reference.
 * Click ```Draw graph``` on the left hand panel of the screen
 * Change ```Graph display``` option from ```BLAST hits(solid)``` to ```Random colours```. *What is strikingly different about this assembly than the Illumina one?*
 
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 12.58.17 PM.png)
+![Alt text](screenshots/Screen%20Shot%202018-06-07%20at%2012.58.17%20PM.png)
 
 ### Now, lets look at where the prophage regions are in this assembly
 
@@ -150,7 +150,7 @@ Next we will map our nanopore Ebola reads to a reference.
 * ```Step 3``` click on ```Run BLAST search```
 * click on ```Close```
 
-![Alt text](/Users/lac292/Desktop/Screen Shot 2018-06-07 at 12.59.42 PM.png)
+![Alt text](screenshots/Screen%20Shot%202018-06-07%20at%2012.59.42%20PM.png)
 
 #### How have the long reads improved this assembly?
 
