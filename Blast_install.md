@@ -8,7 +8,7 @@ BLAST stands for Basic Local Alignment Search Tool.
 
 BLAST is open software so can be freely downloaded from:
 
-* [BLAST website] (https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+* [BLAST website](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 To find the download please scroll down to:
 
