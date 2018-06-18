@@ -12,7 +12,7 @@ BLAST is open software so can be freely downloaded from:
 
 To find the download please scroll down to:
 
-![Alt text] (screenshots/Screen\ Shot\ 2018-06-18\ at\ 5.02.40\ AM.png)
+![Alt text] (screenshots/Screen%20Shot%202018-06-18%20at%205.02.40%20AM.png)
 
 And click on ```Download BLAST```
 
@@ -22,13 +22,13 @@ You will then be given options on which kind of BLAST software you want to insta
 
 Please click on ```Installers and source code are available from ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ ``` and allow your computer to open the folder.
 
-![Alt text] (screenshots/Screen\ Shot\ 2018-06-18\ at\ 5.09.17\ AM.png)
+![Alt text] (screenshots/Screen%20Shot%202018-06-18%20at%205.09.17%20AM.png)
 
 Click on ```Connect As: Guest``` and click ```Connect```.
 
 This will then open up the FTP site to download the BLAST software. 
 
-![Alt text] (screenshots/Screen\ Shot\ 2018-06-18\ at\ 5.12.14\ AM.png)
+![Alt text] (screenshots/Screen%20Shot%202018-06-18%20at%205.12.14%20AM.png)
 
 Please choose the software appropriate to your computer.
 
