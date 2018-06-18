@@ -18,7 +18,7 @@ And click on ```Download BLAST```
 
 You will then be given options on which kind of BLAST software you want to install. We will be using ```BLAST+ executables```.
 
-![Alt text] (screenshots/Screen\ Shot\ 2018-06-18\ at\ 5.05.29\ AM.png)
+![Alt text] (screenshots/Screen%20Shot%202018-06-18%20at%205.05.29%20AM.png)
 
 Please click on ```Installers and source code are available from ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ ``` and allow your computer to open the folder.
 
